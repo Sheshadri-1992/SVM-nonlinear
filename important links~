@@ -1,0 +1,9 @@
+for training svm http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC
+
+for plotting classifiers and graphs
+http://stackoverflow.com/questions/22294241/plotting-a-decision-boundary-separating-2-classes-using-matplotlibs-pyplot
+
+http://scikit-learn.org/stable/auto_examples/svm/plot_svm_nonlinear.html
+
+
